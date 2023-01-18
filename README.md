@@ -2,6 +2,8 @@
 
 # Responsive Landing Page Project
 
+## demo 
+- https://landing-page-m.vercel.app/
 
 ## how use it 
 
